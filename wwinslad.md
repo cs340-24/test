@@ -1,0 +1,3 @@
+- A clone is a copy of the repo that you modify and commit back to the repo
+- A fork is an standalone individual copy of the repo that can then be merged back to the master repo at a later time
+- A branch is a specified place in the version history of the repo, and can represent different published versions of the code, etc.
