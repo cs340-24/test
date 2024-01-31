@@ -1,0 +1,5 @@
+Branch: A branch is used to allow multiple users to update a repo, typically with the idea of adding or editing specific features. Users have the ability to merge branches back into the master branch, changing the original repo in the process.
+
+Fork: The purpose of forks is similar to that of branches. When forking a repository, you make your own copy into your local machine. You can then use commands such as add, commit, and push to change the repository. However, as opposed to branches, you must make a pull request in order to publish to editions to the original repo. You do not have complete control over whether or not your changes are published, unlike branches.
+
+Clone: This just copies a repository completely. The purpose of clone is different than that of branch and fork because it is not used as a way to make direct changes to the repository that has been copied. 
