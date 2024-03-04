@@ -1,0 +1,3 @@
+- GitHub Fork: Creates a complete copy of a repository on GitHub from one user's account to another, allowing for independent changes or contributions back to the original project.
+- Git Clone: A Git command that creates a local copy of a remote repository, enabling offline work and version control management.
+- Git Branch: A feature within Git for creating separate lines of development within the same repository, facilitating parallel work on different features or fixes.
